@@ -1,591 +1,587 @@
 #EXTM3U
-#EXTINF:-1 type="stream" tvg logo="",A&E
+#EXTINF:0 type="stream" channelId="1208", A&E
 http://190.131.228.60:8000/play/a01u/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",AMC HD
+#EXTINF:0 type="stream" channelId="2501", AMC HD
 http://190.131.228.60:8000/play/a00e/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",AXN
+#EXTINF:0 type="stream" channelId="1573", AXN
 http://190.131.228.60:8000/play/a02g/index.m3u8
-#EXTINF:-1 type="stream " tvg logo="",Animal Planet
+#EXTINF:0 type="stream" channelId="50", Animal Planet
 http://190.131.228.60:8000/play/a01o/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Animal Planet HD
+#EXTINF:0 type="stream" channelId="240", Animal Planet HD
 http://190.131.228.60:8000/play/a00k/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",CNN Chile
+#EXTINF:0 type="stream" channelId="152", CNN Chile
 http://190.131.228.60:8000/play/a00z/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",CNN Español
+#EXTINF:0 type="stream" channelId="1972", CNN Español
 http://190.131.228.60:8000/play/a018/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal Capital
+#EXTINF:0 type="stream" channelId="4772", Canal Capital
 http://190.131.228.60:8000/play/a03d/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal Caracol
+#EXTINF:0 type="stream" channelId="4773", Canal Caracol
 http://190.131.228.60:8000/play/a022/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal Estrellas
+#EXTINF:0 type="stream" channelId="1954", Canal Estrellas
 http://190.131.228.60:8000/play/a01w/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal Institucional
+#EXTINF:0 type="stream" channelId="4649", Canal Institucional
 http://190.131.228.60:8000/play/a03a/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal RCN
+#EXTINF:0 type="stream" channelId="3783", Canal RCN
 http://190.131.228.60:8000/play/a023/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal TRO
+#EXTINF:0 type="stream" channelId="4787", Canal TRO
 http://190.131.228.60:8000/play/a03b/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal Uno
+#EXTINF:0 type="stream" channelId="4752", Canal Uno
 http://190.131.228.60:8000/play/a021/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal del Congreso
+#EXTINF:0 type="stream" channelId="2705", Canal del Congreso
 http://190.131.228.60:8000/play/a025/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Capital
+#EXTINF:0 type="stream" channelId="4772", Capital
 http://190.131.228.60:8000/play/a02b/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Caracol
+#EXTINF:0 type="stream" channelId="4773", Caracol
 http://190.131.228.60:8000/play/a038/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Caracol HD
+#EXTINF:0 type="stream" channelId="4773", Caracol HD
 http://190.131.228.60:8000/play/a00n/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Cartoon Network
+#EXTINF:0 type="stream" channelId="40", Cartoon Network
 http://190.131.228.60:8000/play/a011/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Cartoon Network HD
+#EXTINF:0 type="stream" channelId="2719", Cartoon Network HD
 http://190.131.228.60:8000/play/a00g/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Cinecanal
+#EXTINF:0 type="stream" channelId="64", Cinecanal
 http://190.131.228.60:8000/play/a00u/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Cinecanal HD
+#EXTINF:0 type="stream" channelId="284", Cinecanal HD
 http://190.131.228.60:8000/play/a00d/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Cinemax
+#EXTINF:0 type="stream" channelId="1326", Cinemax
 http://190.131.228.60:8000/play/a02e/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",City TV
+#EXTINF:0 type="stream" channelId="1409", City TV
 http://190.131.228.60:8000/play/a02a/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Discovery Channel
+#EXTINF:0 type="stream" channelId="57", Discovery Channel
 http://190.131.228.60:8000/play/a01n/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Discovery H&H HD
+#EXTINF:0 type="stream" channelId="2724", Discovery H&H HD
 http://190.131.228.60:8000/play/a003/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Discovery HD
+#EXTINF:0 type="stream" channelId="341", Discovery HD
 http://190.131.228.60:8000/play/a00o/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Discovery Kids
+#EXTINF:0 type="stream" channelId="2505", Discovery Kids
 http://190.131.228.60:8000/play/a017/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Discovery Kids HD
+#EXTINF:0 type="stream" channelId="2837", Discovery Kids HD
 http://190.131.228.60:8000/play/a002/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Discovery Theatre HD
+#EXTINF:0 type="stream" channelId="2558", Discovery Theatre HD
 http://190.131.228.60:8000/play/a004/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Discovery Turbo
+#EXTINF:0 type="stream" channelId="2840", Discovery Turbo
 http://190.131.228.60:8000/play/a02o/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Discovery World HD
+#EXTINF:0 type="stream" channelId="2890", Discovery World HD
 http://190.131.228.60:8000/play/a00c/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Disney Channel
+#EXTINF:0 type="stream" channelId="19", Disney Channel
 http://190.131.228.60:8000/play/a01m/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Disney Jr
+#EXTINF:0 type="stream" channelId="1197", Disney Jr
 http://190.131.228.60:8000/play/a01h/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",E Entretenimiento
+#EXTINF:0 type="stream" channelId="1188", E Entretenimiento
 http://190.131.228.60:8000/play/a01q/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ESPN 2
+#EXTINF:0 type="stream" channelId="344", ESPN 2
 http://190.131.228.60:8000/play/a01j/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ESPN 2 Latino
+#EXTINF:0 type="stream" channelId="344", ESPN 2 Latino
 http://190.131.228.60:8000/play/a01r/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ESPN 3
+#EXTINF:0 type="stream" channelId="355", ESPN 3
 http://190.131.228.60:8000/play/a02p/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ESPN 4 HD
+#EXTINF:0 type="stream" channelId="1432", ESPN 4 HD
 http://190.131.228.60:8000/play/a005/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ESPN CO
+#EXTINF:0 type="stream" channelId="2540", ESPN CO
 http://190.131.228.60:8000/play/a027/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",FOX Sports 2 HD
+#EXTINF:0 type="stream" channelId="179", FOX Sports 2 HD
 http://190.131.228.60:8000/play/a006/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",FX
+#EXTINF:0 type="stream" channelId="1303", FX
 http://190.131.228.60:8000/play/a02i/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",FX HD
+#EXTINF:0 type="stream" channelId="1304", FX HD
 http://190.131.228.60:8000/play/a008/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Fox Sports 1 HD
+#EXTINF:0 type="stream" channelId="1263", Fox Sports 1 HD
 http://190.131.228.60:8000/play/a00p/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Fox Sports 2
+#EXTINF:0 type="stream" channelId="170", Fox Sports 2
 http://190.131.228.60:8000/play/a01y/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",GOL TV
+#EXTINF:0 type="stream" channelId="1686", GOL TV
 http://190.131.228.60:8000/play/a01s/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",HBO
+#EXTINF:0 type="stream" channelId="1330", HBO
 http://190.131.228.60:8000/play/a02d/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",HBO 2
+#EXTINF:0 type="stream" channelId="935", HBO 2
 http://190.131.228.60:8000/play/a01d/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",HBO 2 HD
+#EXTINF:0 type="stream" channelId="935", HBO 2 HD
 http://190.131.228.60:8000/play/a00i/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Familia HBO
+#EXTINF:0 type="stream" channelId="2584", Familia HBO
 http://190.131.228.60:8000/play/a01g/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",HBO Familia HD
+#EXTINF:0 type="stream" channelId="2584", HBO Familia HD
 http://190.131.228.60:8000/play/a00q/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",HBO HD
+#EXTINF:0 type="stream" channelId="1330", HBO HD
 http://190.131.228.60:8000/play/a00f/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",HBO Plus
+#EXTINF:0 type="stream" channelId="2585", HBO Plus
 http://190.131.228.60:8000/play/a01e/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",HBO XTREME SD
+#EXTINF:0 type="stream" channelId="2587", HBO XTREME SD
 http://190.131.228.60:8000/play/a01f/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Historia 2 HD
+#EXTINF:0 type="stream" channelId="1201", Historia 2 HD
 http://190.131.228.60:8000/play/a034/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal Historia
+#EXTINF:0 type="stream" channelId="1455", Canal Historia
 http://190.131.228.60:8000/play/a00t/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Las Estrellas HD
+#EXTINF:0 type="stream" channelId="2287", Las Estrellas HD
 http://190.131.228.60:8000/play/a033/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",De por vida
+#EXTINF:0 type="stream" channelId="1200", LifeTime
 http://190.131.228.60:8000/play/a015/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",MTV
+#EXTINF:0 type="stream" channelId="1973", MTV
 http://190.131.228.60:8000/play/a00x/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Nat Geo
+#EXTINF:0 type="stream" channelId="56", Nat Geo
 http://190.131.228.60:8000/play/a00s/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Nat Geo HD
+#EXTINF:0 type="stream" channelId="207", Nat Geo HD
 http://190.131.228.60:8000/play/a00b/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Nick Jr
+#EXTINF:0 type="stream" channelId="322", Nick Jr
 http://190.131.228.60:8000/play/a02n/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Nickelodeon
+#EXTINF:0 type="stream" channelId="41", Nickelodeon
 http://190.131.228.60:8000/play/a00r/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Paramount HD
+#EXTINF:0 type="stream" channelId="1719", Paramount HD
 http://190.131.228.60:8000/play/a00h/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",RCN HD
+#EXTINF:0 type="stream" channelId="3783", RCN HD
 http://190.131.228.60:8000/play/a02s/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",CANAL ESTRELLA HD
+#EXTINF:0 type="stream" channelId="177", Star Channel HD
 http://190.131.228.60:8000/play/a02y/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Senal Colombia
+#EXTINF:0 type="stream" channelId="2488", Señal Colombia
 http://190.131.228.60:8000/play/a026/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Sony
+#EXTINF:0 type="stream" channelId="188", Sony
 http://190.131.228.60:8000/play/a02f/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Espacio
+#EXTINF:0 type="stream" channelId="383", Space
 http://190.131.228.60:8000/play/a02h/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Studio Universal
+#EXTINF:0 type="stream" channelId="2625", Studio Universal
 http://190.131.228.60:8000/play/a01i/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Studio Universal HD
+#EXTINF:0 type="stream" channelId="2147", Studio Universal HD
 http://190.131.228.60:8000/play/a01k/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",TCM
+#EXTINF:0 type="stream" channelId="895", TCM
 http://190.131.228.60:8000/play/a010/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",TLC
+#EXTINF:0 type="stream" channelId="67", TLC
 http://190.131.228.60:8000/play/a01v/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",TNT
+#EXTINF:0 type="stream" channelId="1052", TNT
 http://190.131.228.60:8000/play/a012/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",TNT SPORTS premium
+#EXTINF:0 type="stream" channelId="4668", TNT SPORTS premium
 http://181.176.174.135:8200/play/a0dj/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",TNT Serie HD
+#EXTINF:0 type="stream" channelId="2685", TNT Serie HD
 http://190.131.228.60:8000/play/a007/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",TRO
+#EXTINF:0 type="stream" channelId="4787", TRO
 http://190.131.228.60:8000/play/a029/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",TV+ HD
+#EXTINF:0 type="stream" channelId="1569", TV+ HD
 http://190.131.228.60:8000/play/a00a/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",TVE
+#EXTINF:0 type="stream" channelId="378", TVE
 http://190.131.228.60:8000/play/a014/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Teleantioquia
+#EXTINF:0 type="stream" channelId="4745", Teleantioquia
 http://190.131.228.60:8000/play/a02j/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Telecafé
+#EXTINF:0 type="stream" channelId="4784", Telecafé
 http://190.131.228.60:8000/play/a03c/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Telecaribe
+#EXTINF:0 type="stream" channelId="4785", Telecaribe
 http://190.131.228.60:8000/play/a039/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Teleislas
+#EXTINF:0 type="stream" channelId="4790", Teleislas
 http://190.131.228.60:8000/play/a02v/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Telemundo
+#EXTINF:0 type="stream" channelId="1967", Telemundo
 http://190.131.228.60:8000/play/a01z/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Telepacífico
+#EXTINF:0 type="stream" channelId="4786", Telepacífico
 http://190.131.228.60:8000/play/a02l/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",TyC
+#EXTINF:0 type="stream" channelId="3802", TyC
 http://190.131.228.60:8000/play/a01t/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Universal
+#EXTINF:0 type="stream" channelId="187", Universal
 http://190.131.228.60:8000/play/a00v/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Warner
+#EXTINF:0 type="stream" channelId="2557", Warner
 http://190.131.228.60:8000/play/a01p/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Win
+#EXTINF:0 type="stream" channelId="4788", Win
 http://190.131.228.60:8000/play/a02k/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Win Sports+ HD
+#EXTINF:0 type="stream" channelId="4789", Win Sports+ HD
 http://190.131.228.60:8000/play/a00j/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Zona Latina
+#EXTINF:0 type="stream" channelId="4750", Zona Latina
 http://190.131.228.60:8000/play/a00y/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Zoom
+#EXTINF:0 type="stream" channelId="921", Zoom
 http://190.131.228.60:8000/play/a028/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",A&E HD
+#EXTINF:0 type="stream" channelId="2503", A&E HD
 http://190.131.197.6:8000/play/a01f/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",AXN HD
+#EXTINF:0 type="stream" channelId="2246", AXN HD
 http://190.131.197.6:8000/play/a01i/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Baby TV
+#EXTINF:0 type="stream" channelId="473", Baby TV
 http://190.131.197.6:8000/play/a02j/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal 1 HD
+#EXTINF:0 type="stream" channelId="4775", Canal 1 HD
 http://190.131.197.6:8000/play/a00t/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal 13
+#EXTINF:0 type="stream" channelId="4771", Canal trece
 http://190.131.197.6:8000/play/a03h/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal Institucional HD
+#EXTINF:0 type="stream" channelId="4649", Canal Institucional HD
 http://190.131.197.6:8000/play/a01r/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Cinemax HD
+#EXTINF:0 type="stream" channelId="2888", Cinemax HD
 http://190.131.197.6:8000/play/a022/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Comedy Central HD
+#EXTINF:0 type="stream" channelId="1191", Comedy Central HD
 http://190.131.197.6:8000/play/a023/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Cristovisiðn
+#EXTINF:0 type="stream" channelId="4777", Cristovisiðn
 http://190.131.197.6:8000/play/a042/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",De PelŦcula
+#EXTINF:0 type="stream" channelId="134", De Pelicula
 http://190.131.197.6:8000/play/a033/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Discovery Science
+#EXTINF:0 type="stream" channelId="58", Discovery Science
 http://190.131.197.6:8000/play/a045/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Disney HD
+#EXTINF:0 type="stream" channelId="2720", Disney HD
 http://190.131.197.6:8000/play/a01u/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",E! HD
+#EXTINF:0 type="stream" channelId="3124", E! HD
 http://190.131.197.6:8000/play/a00v/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ESPN 2 HD
+#EXTINF:0 type="stream" channelId="3746", ESPN 2 HD
 http://190.131.197.6:8000/play/a01n/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ESPN 3 HD
+#EXTINF:0 type="stream" channelId="357", ESPN 3 HD
 http://190.131.197.6:8000/play/a01x/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ESPN 4HD
+#EXTINF:0 type="stream" channelId="1432", ESPN 4HD
 http://190.131.197.6:8000/play/a039/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ESPN 6HD
+#EXTINF:0 type="stream" channelId="-1", ESPN 6HD
 http://190.131.197.6:8000/play/a03a/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ESPN 7HD
+#EXTINF:0 type="stream" channelId="-1", ESPN 7HD
 http://190.131.197.6:8000/play/a03b/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ESPN HD
+#EXTINF:0 type="stream" channelId="1263", ESPN HD
 http://190.131.197.6:8000/play/a00a/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",El Gourmet HD
+#EXTINF:0 type="stream" channelId="310", El Gourmet HD
 http://190.131.197.6:8000/play/a025/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Enlace
+#EXTINF:0 type="stream" channelId="4569", Enlace
 http://190.131.197.6:8000/play/a041/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Eurochannel
+#EXTINF:0 type="stream" channelId="2621", Eurochannel
 http://190.131.197.6:8000/play/a049/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Food Network HD
+#EXTINF:0 type="stream" channelId="1720", Food Network HD
 http://190.131.197.6:8000/play/a00x/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Golden Edge
+#EXTINF:0 type="stream" channelId="2502", Golden Edge
 http://190.131.197.6:8000/play/a044/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Golden HD
+#EXTINF:0 type="stream" channelId="1962", Golden HD
 http://190.131.197.6:8000/play/a00s/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",HGTV
+#EXTINF:0 type="stream" channelId="1418", HGTV
 http://190.131.197.6:8000/play/a034/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",HTV
+#EXTINF:0 type="stream" channelId="288", HTV
 http://190.131.197.6:8000/play/a03d/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Historia Canal HD
+#EXTINF:0 type="stream" channelId="1456", Historia Canal HD
 http://190.131.197.6:8000/play/a01e/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ID HD
+#EXTINF:0 type="stream" channelId="59", ID HD
 http://190.131.197.6:8000/play/a02x/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Lifetime
+#EXTINF:0 type="stream" channelId="1200", Lifetime
 http://190.131.197.6:8000/play/a03e/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Lolly Kids HD
+#EXTINF:0 type="stream" channelId="2705", Lolly Kids HD
 http://190.131.197.6:8000/play/a011/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",MTV 00s
+#EXTINF:0 type="stream" channelId="5220", MTV 00s
 http://190.131.197.6:8000/play/a03g/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",MTV LIVE HD
+#EXTINF:0 type="stream" channelId="237", MTV LIVE HD
 http://190.131.197.6:8000/play/a03f/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Pasiones HD
+#EXTINF:0 type="stream" channelId="3781", Pasiones HD
 http://190.131.197.6:8000/play/a01t/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Seæal Colombia
+#EXTINF:0 type="stream" channelId="2488", Señal Colombia
 http://190.131.197.6:8000/play/a03l/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Sony HD
+#EXTINF:0 type="stream" channelId="530", Sony HD
 http://190.131.197.6:8000/play/a01g/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Space HD
+#EXTINF:0 type="stream" channelId="2896", Space HD
 http://190.131.197.6:8000/play/a01j/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Estudio Universal HD
+#EXTINF:0 type="stream" channelId="2147", Estudio Universal HD
 http://190.131.197.6:8000/play/a00l/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",TNTHD
+#EXTINF:0 type="stream" channelId="2900", TNTHD
 http://190.131.197.6:8000/play/a01w/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",TNT Novelas HD
+#EXTINF:0 type="stream" channelId="1052", TNT Novelas HD
 http://190.131.197.6:8000/play/a02v/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Telecafe
+#EXTINF:0 type="stream" channelId="4784", Telecafe
 http://190.131.197.6:8000/play/a040/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Telenovelas
+#EXTINF:0 type="stream" channelId="2504", Telenovelas
 http://190.131.197.6:8000/play/a03u/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Telepacifico
+#EXTINF:0 type="stream" channelId="4786", Telepacifico
 http://190.131.197.6:8000/play/a02g/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Telesur
+#EXTINF:0 type="stream" channelId="2663", Telesur
 http://190.131.197.6:8000/play/a03m/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Tooncast
+#EXTINF:0 type="stream" channelId="2639", Tooncast
 http://190.131.197.6:8000/play/a02k/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",CANAL UNIVERSAL HD
+#EXTINF:0 type="stream" channelId="187", CANAL UNIVERSAL HD
 http://190.131.197.6:8000/play/a005/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Win Sports HD
+#EXTINF:0 type="stream" channelId="4788", Win Sports HD
 http://190.131.197.6:8000/play/a01m/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",A&E
+#EXTINF:0 type="stream" channelId="1208", A&E
 http://181.78.12.84:2020/play/a03g/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",AMC
+#EXTINF:0 type="stream" channelId="2501", AMC
 http://181.78.12.84:2020/play/a02a/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Antena 3
+#EXTINF:0 type="stream" channelId="2124", Antena 3
 http://181.78.12.84:2020/play/a01e/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",CableNoticias
+#EXTINF:0 type="stream" channelId="4770", CableNoticias
 http://181.78.12.84:2020/play/a02p/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal 24 Horas HD
+#EXTINF:0 type="stream" channelId="1323", Canal 24 Horas HD
 http://181.78.12.84:2020/play/a057/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Cartoonito
+#EXTINF:0 type="stream" channelId="1305", Cartoonito
 http://181.78.12.84:2020/play/a07n/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Clover
+#EXTINF:0 type="stream" channelId="2705", Clover
 http://181.78.12.84:2020/play/a014/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Comedy Central
+#EXTINF:0 type="stream" channelId="1190", Comedy Central
 http://181.78.12.84:2020/play/a026/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Disney Junior
+#EXTINF:0 type="stream" channelId="1197", Disney Junior
 http://181.78.12.84:2020/play/a066/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",E! Entretenimiento TV
+#EXTINF:0 type="stream" channelId="1188", E! Entretenimiento TV
 http://181.78.12.84:2020/play/a019/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ESPN 3HD
+#EXTINF:0 type="stream" channelId="357", ESPN 3HD
 http://181.78.12.84:2020/play/a00p/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",ET Canal El Tiempo
+#EXTINF:0 type="stream" channelId="4780", ET Canal El Tiempo
 http://181.78.12.84:2020/play/a070/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",EWTN
+#EXTINF:0 type="stream" channelId="1491", EWTN
 http://181.78.12.84:2020/play/a06e/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",El Gourmet
+#EXTINF:0 type="stream" channelId="310", El Gourmet
 http://181.78.12.84:2020/play/a02l/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Epoca
+#EXTINF:0 type="stream" channelId="2705", Epoca
 http://181.78.12.84:2020/play/a034/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Fox Sports 3 HD
+#EXTINF:0 type="stream" channelId="213", Fox Sports 3 HD
 http://181.78.12.84:2020/play/a00q/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",GOLPERU
+#EXTINF:0 type="stream" channelId="1686", GOLPERU
 http://181.78.12.84:2020/play/a02z/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Dorado
+#EXTINF:0 type="stream" channelId="333", Golden
 http://181.78.12.84:2020/play/a07t/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Borde dorado
+#EXTINF:0 type="stream" channelId="2502", Golden Edge
 http://181.78.12.84:2020/play/a008/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",IVC
+#EXTINF:0 type="stream" channelId="2705", IVC
 http://181.78.12.84:2020/play/a012/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Kanal D Drama
+#EXTINF:0 type="stream" channelId="1158", Kanal D Drama
 http://181.78.12.84:2020/play/a05t/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Latina
+#EXTINF:0 type="stream" channelId="2545", Latina
 http://181.78.12.84:2020/play/a05i/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Lolly Kids
+#EXTINF:0 type="stream" channelId="2705", Lolly Kids
 http://181.78.12.84:2020/play/a05r/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Ama la Naturaleza HD
+#EXTINF:0 type="stream" channelId="2035", Ama la Naturaleza HD
 http://181.78.12.84:2020/play/a053/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Meridiano
-http://181.78.12.84:2020/play/a07i/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",NTN 24 Horas
+#EXTINF:0 type="stream" channelId="3780", NTN 24 Horas
 http://181.78.12.84:2020/play/a02o/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",NTV
+#EXTINF:0 type="stream" channelId="1078", NTV
 http://181.78.12.84:2020/play/a044/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Nick HD
+#EXTINF:0 type="stream" channelId="334", Nick HD
 http://181.78.12.84:2020/play/a00f/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Nuestra Tele
+#EXTINF:0 type="stream" channelId="4031", RCN
 http://181.78.12.84:2020/play/a004/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Panamericana
+#EXTINF:0 type="stream" channelId="2705", Panamericana
 http://181.78.12.84:2020/play/a05l/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Canal Paramount
+#EXTINF:0 type="stream" channelId="1719", Canal Paramount
 http://181.78.12.84:2020/play/a07w/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",CANAL ESTRELLA
+#EXTINF:0 type="stream" channelId="177", Star Channel
 http://181.78.12.84:2020/play/a079/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Seæal Colombia HD
+#EXTINF:0 type="stream" channelId="2488", Señal Colombia HD
 http://181.78.12.84:2020/play/a04n/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Teen Nick
+#EXTINF:0 type="stream" channelId="2709", Teen Nick
 http://181.78.12.84:2020/play/a05s/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Telecanal
+#EXTINF:0 type="stream" channelId="4701", Telecanal
 http://181.78.12.84:2020/play/a00z/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",EE.UU.
+#EXTINF:0 type="stream" channelId="3229", EE.UU.
 http://181.78.12.84:2020/play/a01j/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Venevision Plus
+#EXTINF:0 type="stream" channelId="2705", Venevision Plus
 http://181.78.12.84:2020/play/a01a/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Venevisiðn
+#EXTINF:0 type="stream" channelId="2705", Venevisiðn
 http://181.78.12.84:2020/play/a07d/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Via X Esports
+#EXTINF:0 type="stream" channelId="2705", Via X Esports
 http://181.78.12.84:2020/play/a074/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Warner Channel
+#EXTINF:0 type="stream" channelId="2557", Warner Channel
 http://181.78.12.84:2020/play/a05y/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",Win Deportes+ HD
+#EXTINF:0 type="stream" channelId="4789", Win Deportes+ HD
 http://181.78.12.84:2020/play/a04k/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",URL del enlace
+#EXTINF:0 type="stream" channelId="4569", Enlace
 http://168.90.14.199:8082/play/a0e0/index.m3u8
-#EXTINF:-1 type="stream" tvg logo="",3ABN SD
+#EXTINF:0 type="stream" channelId="3831", 3ABN SD
 http://181.78.21.46:8000/play/a03g
-#EXTINF:-1 type="stream" tvg logo="",A&E HD
+#EXTINF:0 type="stream" channelId="2503", A&E HD
 http://181.78.21.46:8000/play/a03c
-#EXTINF:-1 type="stream" tvg logo="",ANIMAL PLANET SD
+#EXTINF:0 type="stream" channelId="50", ANIMAL PLANET SD
 http://181.78.21.46:8000/play/a001
-#EXTINF:-1 type="stream" tvg logo="",AXN HD
+#EXTINF:0 type="stream" channelId="2246", AXN HD
 http://181.78.21.46:8000/play/a03d
-#EXTINF:-1 type="stream" tvg logo="",AZTECA CINEMA HD
+#EXTINF:0 type="stream" channelId="4666", AZTECA CINEMA HD
 http://181.78.21.46:8000/play/a030
-#EXTINF:-1 type="stream" tvg logo="",AZTECA CLIC HD
+#EXTINF:0 type="stream" channelId="243", AZTECA CLIC HD
 http://181.78.21.46:8000/play/a038
-#EXTINF:-1 type="stream" tvg logo="",AZTECA CORAZON HD
+#EXTINF:0 type="stream" channelId="238", AZTECA CORAZON HD
 http://181.78.21.46:8000/play/a039
-#EXTINF:-1 type="stream" tvg logo="",AZTECA DEPORTE HD
+#EXTINF:0 type="stream" channelId="2705", AZTECA DEPORTE HD
 http://181.78.21.46:8000/play/a02y
-#EXTINF:-1 type="stream" tvg logo="",AZTECA INTERNACIONAL HD
+#EXTINF:0 type="stream" channelId="3729", AZTECA INTERNACIONAL HD
 http://181.78.21.46:8000/play/a03f
-#EXTINF:-1 type="stream" tvg logo="",BABY TV HD
+#EXTINF:0 type="stream" channelId="473", BABY TV HD
 http://181.78.21.46:8000/play/a003
-#EXTINF:-1 type="stream" tvg logo="",BANDAMAX HD
+#EXTINF:0 type="stream" channelId="1959", BANDAMAX HD
 http://181.78.21.46:8000/play/a004
-#EXTINF:-1 type="stream" tvg logo="",BITME HD
+#EXTINF:0 type="stream" channelId="2705", BITME HD
 http://181.78.21.46:8000/play/a006
-#EXTINF:-1 type="stream" tvg logo="",CABLE NOTICIAS HD
+#EXTINF:0 type="stream" channelId="4770", CABLE NOTICIAS HD
 http://181.78.21.46:8000/play/a007
-#EXTINF:-1 type="stream" tvg logo="",CANAL CAPITAL SD
+#EXTINF:0 type="stream" channelId="4772", CANAL CAPITAL SD
 http://181.78.21.46:8000/play/a008
-#EXTINF:-1 type="stream" tvg logo="",CANAL CONGRESO SD
+#EXTINF:0 type="stream" channelId="2705", CANAL CONGRESO SD
 http://181.78.21.46:8000/play/a009
-#EXTINF:-1 type="stream" tvg logo="",CANAL DE LAS ESTRELLAS HD
+#EXTINF:0 type="stream" channelId="2287", CANAL DE LAS ESTRELLAS HD
 http://181.78.21.46:8000/play/a00a
-#EXTINF:-1 type="stream" tvg logo="",CANAL INFANTIL HD
+#EXTINF:0 type="stream" channelId="2705", CANAL INFANTIL HD
 http://181.78.21.46:8000/play/a00b
-#EXTINF:-1 type="stream" tvg logo="",CANAL INSTITUCIONAL SD
+#EXTINF:0 type="stream" channelId="4649", CANAL INSTITUCIONAL SD
 http://181.78.21.46:8000/play/a00c
-#EXTINF:-1 type="stream" tvg logo="",CANAL TRECE SD
+#EXTINF:0 type="stream" channelId="4771", CANAL TRECE SD
 http://181.78.21.46:8000/play/a00d
-#EXTINF:-1 type="stream" tvg logo="",CANAL TRO SD
+#EXTINF:0 type="stream" channelId="4787", CANAL TRO SD
 http://181.78.21.46:8000/play/a00e
-#EXTINF:-1 type="stream" tvg logo="",CANAL UNO SD
+#EXTINF:0 type="stream" channelId="4752", CANAL UNO SD
 http://181.78.21.46:8000/play/a00f
-#EXTINF:-1 type="stream" tvg logo="",CARACOLTV HD
+#EXTINF:0 type="stream" channelId="4773", CARACOLTV HD
 http://181.78.21.46:8000/play/a00g
-#EXTINF:-1 type="stream" tvg logo="",CARTOON NETWORKS SD
+#EXTINF:0 type="stream" channelId="40", CARTOON NETWORKS SD
 http://181.78.21.46:8000/play/a00h
-#EXTINF:-1 type="stream" tvg logo="",CARTOONITO SD
+#EXTINF:0 type="stream" channelId="1305", CARTOONITO SD
 http://181.78.21.46:8000/play/a00i
-#EXTINF:-1 type="stream" tvg logo="",CGTN
+#EXTINF:0 type="stream" channelId="893", CGTN
 http://181.78.21.46:8000/play/a00j
-#EXTINF:-1 type="stream" tvg logo="",CINE CANAL HD
+#EXTINF:0 type="stream" channelId="284", CINE CANAL HD
 http://181.78.21.46:8000/play/a00k
-#EXTINF:-1 type="stream" tvg logo="",CINE FAMILIAR HD
+#EXTINF:0 type="stream" channelId="2705", CINE FAMILIAR HD
 http://181.78.21.46:8000/play/a00l
-#EXTINF:-1 type="stream" tvg logo="",CINE HISPANO HD
+#EXTINF:0 type="stream" channelId="2705", CINE HISPANO HD
 http://181.78.21.46:8000/play/a00m
-#EXTINF:-1 type="stream" tvg logo="",CINE PREMIUM HD
+#EXTINF:0 type="stream" channelId="2705", CINE PREMIUM HD
 http://181.78.21.46:8000/play/a00n
-#EXTINF:-1 type="stream" tvg logo="",CITYTV HD
+#EXTINF:0 type="stream" channelId="1409", CITYTV HD
 http://181.78.21.46:8000/play/a00o
-#EXTINF:-1 type="stream" tvg logo="",CNC
+#EXTINF:0 type="stream" channelId="2705", CNC
 http://181.78.21.46:8000/play/a00p
-#EXTINF:-1 type="stream" tvg logo="",CNN ESPANOL HD
+#EXTINF:0 type="stream" channelId="2883", CNN ESPANOL HD
 http://181.78.21.46:8000/play/a00q
-#EXTINF:-1 type="stream" tvg logo="",COSMOVISION SD
+#EXTINF:0 type="stream" channelId="4776", COSMOVISION SD
 http://181.78.21.46:8000/play/a00r
-#EXTINF:-1 type="stream" tvg logo="",CRISTOVISION SD
+#EXTINF:0 type="stream" channelId="4777", CRISTOVISION SD
 http://181.78.21.46:8000/play/a00s
-#EXTINF:-1 type="stream" tvg logo="",DEPELICULA HD
+#EXTINF:0 type="stream" channelId="1953", DEPELICULA HD
 http://181.78.21.46:8000/play/a00t
-#EXTINF:-1 type="stream" tvg logo="",DHEHD
+#EXTINF:0 type="stream" channelId="3743", DHE HD
 http://181.78.21.46:8000/play/a00u
-#EXTINF:-1 type="stream" tvg logo="",DISCOVERY CHANNEL SD
+#EXTINF:0 type="stream" channelId="57", DISCOVERY CHANNEL SD
 http://181.78.21.46:8000/play/a00v
-#EXTINF:-1 type="stream" tvg logo="",DISCOVERY H&H SD
+#EXTINF:0 type="stream" channelId="2620", DISCOVERY H&H SD
 http://181.78.21.46:8000/play/a00w
-#EXTINF:-1 type="stream" tvg logo="",DISCOVERY KIDS SD
+#EXTINF:0 type="stream" channelId="2505", DISCOVERY KIDS SD
 http://181.78.21.46:8000/play/a00x
-#EXTINF:-1 type="stream" tvg logo="",DISCOVERY SCIENCE SD
+#EXTINF:0 type="stream" channelId="58", DISCOVERY SCIENCE SD
 http://181.78.21.46:8000/play/a00y
-#EXTINF:-1 type="stream" tvg logo="",DISCOVERY TURBO SD
+#EXTINF:0 type="stream" channelId="2840", DISCOVERY TURBO SD
 http://181.78.21.46:8000/play/a00z
-#EXTINF:-1 type="stream" tvg logo="",DISNEY CHANNEL HD
+#EXTINF:0 type="stream" channelId="2720", DISNEY CHANNEL HD
 http://181.78.21.46:8000/play/a010
-#EXTINF:-1 type="stream" tvg logo="",DISNEY JUNIIOR HD
+#EXTINF:0 type="stream" channelId="1197", DISNEY JUNIOR HD
 http://181.78.21.46:8000/play/a011
-#EXTINF:-1 type="stream" tvg logo="",DISTRITO COMEDIA HD
+#EXTINF:0 type="stream" channelId="1961", DISTRITO COMEDIA HD
 http://181.78.21.46:8000/play/a012
-#EXTINF:-1 type="stream" tvg logo="",DREAMWORKS HD
+#EXTINF:0 type="stream" channelId="2705", DREAMWORKS HD
 http://181.78.21.46:8000/play/a02z
-#EXTINF:-1 type="stream" tvg logo="",E! HD
+#EXTINF:0 type="stream" channelId="3124", E! HD
 http://181.78.21.46:8000/play/a03a
-#EXTINF:-1 type="stream" tvg logo="",ENLACE HD
+#EXTINF:0 type="stream" channelId="4569", ENLACE HD
 http://181.78.21.46:8000/play/a014
-#EXTINF:-1 type="stream" tvg logo="",ESPN 2 HD
+#EXTINF:0 type="stream" channelId="3746", ESPN 2 HD
 http://181.78.21.46:8000/play/a016
-#EXTINF:-1 type="stream" tvg logo="",ESPN 3 HD
+#EXTINF:0 type="stream" channelId="357", ESPN 3 HD
 http://181.78.21.46:8000/play/a017
-#EXTINF:-1 type="stream" tvg logo="",ESPN 5 HD
-http://181.78.21.46:8000/play/a018 
-#EXTINF:-1 type="stream" tvg logo="",ESPN 6 HD
-http://181.78.21.46:8000/play/a019 
-#EXTINF:-1 type="stream" tvg logo="",ESPN 7 HD
-http://181.78.21.46:8000/play/a01a 
-#EXTINF:-1 type="stream" tvg logo="",ESPN HD
-http://181.78.21.46:8000/play/a015 
-#EXTINF:-1 type="stream" tvg logo="",EWTN HD
-http://181.78.21.46:8000/play/a01c 
-#EXTINF:-1 type="stream" tvg logo="",FOOD NETWORK SD
-http://181.78.21.46:8000/play/a01d 
-#EXTINF:-1 type="stream" tvg logo="",FRANCIA 24
-http://181.78.21.46:8000/play/a01e 
-#EXTINF:-1 type="stream" tvg logo="",TV HD GRATIS
-http://181.78.21.46:8000/play/a01g 
-#EXTINF:-1 type="stream" tvg logo="",FX HD
-http://181.78.21.46:8000/play/a01f 
-#EXTINF:-1 type="stream" tvg logo="",GOLDEN EDGE HD
-http://181.78.21.46:8000/play/a01i 
-#EXTINF:-1 type="stream" tvg logo="",DORADO HD
-http://181.78.21.46:8000/play/a01h 
-#EXTINF:-1 type="stream" tvg logo="",HGTV HD
-http://181.78.21.46:8000/play/a01j 
-#EXTINF:-1 type="stream" tvg logo="",HISPANTV
-http://181.78.21.46:8000/play/a01k 
-#EXTINF:-1 type="stream" tvg logo="",HISTORIA 2 HD
-http://181.78.21.46:8000/play/a037 
-#EXTINF:-1 type="stream" tvg logo="",HISTORIA CANAL HD
-http://181.78.21.46:8000/play/a036 
-#EXTINF:-1 type="stream" tvg logo="",HOGARTV HD
-http://181.78.21.46:8000/play/a01l 
-#EXTINF:-1 type="stream" tvg logo="",HTV HD
-http://181.78.21.46:8000/play/a01m 
-#EXTINF:-1 type="stream" tvg logo="",ID DISCOVERY SD
-http://181.78.21.46:8000/play/a01n 
-#EXTINF:-1 type="stream" tvg logo="",IVC HD
-http://181.78.21.46:8000/play/a035 
-#EXTINF:-1 type="stream" tvg logo="",LA KALLE HD
-http://181.78.21.46:8000/play/a01o 
-#EXTINF:-1 type="stream" tvg logo="",LIFETIME HD
-http://181.78.21.46:8000/play/a03e 
-#EXTINF:-1 type="stream" tvg logo="",AMO LA NATURALEZA HD
+#EXTINF:0 type="stream" channelId="-1", ESPN 5 HD
+http://181.78.21.46:8000/play/a018
+#EXTINF:0 type="stream" channelId="-1", ESPN 6 HD
+http://181.78.21.46:8000/play/a019
+#EXTINF:0 type="stream" channelId="-1", ESPN 7 HD
+http://181.78.21.46:8000/play/a01a
+#EXTINF:0 type="stream" channelId="1263", ESPN HD
+http://181.78.21.46:8000/play/a015
+#EXTINF:0 type="stream" channelId="1491", EWTN HD
+http://181.78.21.46:8000/play/a01c
+#EXTINF:0 type="stream" channelId="1244", FOOD NETWORK SD
+http://181.78.21.46:8000/play/a01d
+#EXTINF:0 type="stream" channelId="139", FRANCIA 24
+http://181.78.21.46:8000/play/a01e
+#EXTINF:0 type="stream" channelId="1304", FX HD
+http://181.78.21.46:8000/play/a01f
+#EXTINF:0 type="stream" channelId="2502", GOLDEN EDGE HD
+http://181.78.21.46:8000/play/a01i
+#EXTINF:0 type="stream" channelId="1962", Golen HD
+http://181.78.21.46:8000/play/a01h
+#EXTINF:0 type="stream" channelId="1418", HGTV HD
+http://181.78.21.46:8000/play/a01j
+#EXTINF:0 type="stream" channelId="4690", HISPANTV
+http://181.78.21.46:8000/play/a01k
+#EXTINF:0 type="stream" channelId="1202", HISTORIA 2 HD
+http://181.78.21.46:8000/play/a037
+#EXTINF:0 type="stream" channelId="1456", HISTORIA CANAL HD
+http://181.78.21.46:8000/play/a036
+#EXTINF:0 type="stream" channelId="2705", HOGARTV HD
+http://181.78.21.46:8000/play/a01l
+#EXTINF:0 type="stream" channelId="288", HTV HD
+http://181.78.21.46:8000/play/a01m
+#EXTINF:0 type="stream" channelId="59", ID DISCOVERY SD
+http://181.78.21.46:8000/play/a01n
+#EXTINF:0 type="stream" channelId="2705", IVC HD
+http://181.78.21.46:8000/play/a035
+#EXTINF:0 type="stream" channelId="2705", LA KALLE HD
+http://181.78.21.46:8000/play/a01o
+#EXTINF:0 type="stream" channelId="1200", LIFETIME HD
+http://181.78.21.46:8000/play/a03e
+#EXTINF:0 type="stream" channelId="2035", AMO LA NATURALEZA HD
 http://181.78.21.46:8000/play/a01p
-#EXTINF:-1 type="stream" tvg logo="",MARIA VISION HD
-http://181.78.21.46:8000/play/a005 
-#EXTINF:-1 type="stream" tvg logo="",MIMUSICA POPULAR HD
+#EXTINF:0 type="stream" channelId="2705", MARIA VISION HD
+http://181.78.21.46:8000/play/a005
+#EXTINF:0 type="stream" channelId="2705", MIMUSICA POPULAR HD
 http://181.78.21.46:8000/play/a01r
-#EXTINF:-1 type="stream" tvg logo="",MIMUSICA REGGAETON HD
+#EXTINF:0 type="stream" channelId="2705", MIMUSICA REGGAETON HD
 http://181.78.21.46:8000/play/a01s
-#EXTINF:-1 type="stream" tvg logo="",MIMUSICA ROMANTICA HD
+#EXTINF:0 type="stream" channelId="2705", MIMUSICA ROMANTICA HD
 http://181.78.21.46:8000/play/a01t
-#EXTINF:-1 type="stream" tvg logo="",MIMUSICA SALSA HD
+#EXTINF:0 type="stream" channelId="2705", MIMUSICA SALSA HD
 http://181.78.21.46:8000/play/a01u
-#EXTINF:-1 type="stream" tvg logo="",MTV SD
+#EXTINF:0 type="stream" channelId="1973", MTV SD
 http://181.78.21.46:8000/play/a01v
-#EXTINF:-1 type="stream" tvg logo="",NATGEO HD
+#EXTINF:0 type="stream" channelId="207", NATGEO HD
 http://181.78.21.46:8000/play/a01w
-#EXTINF:-1 type="stream" tvg logo="",NICK SD
+#EXTINF:0 type="stream" channelId="41", NICK SD
 http://181.78.21.46:8000/play/a01x
-#EXTINF:-1 type="stream" tvg logo="",PARAMOUNT HD
+#EXTINF:0 type="stream" channelId="1497", PARAMOUNT HD
 http://181.78.21.46:8000/play/a01z
-#EXTINF:-1 type="stream" tvg logo="",RCN HD
+#EXTINF:0 type="stream" channelId="3783", RCN HD
 http://181.78.21.46:8000/play/a020
-#EXTINF:-1 type="stream" tvg logo="",RUMBATV HD
+#EXTINF:0 type="stream" channelId="4801", RUMBATV HD
 http://181.78.21.46:8000/play/a021
-#EXTINF:-1 type="stream" tvg logo="",SENAL COLOMBIA SD
+#EXTINF:0 type="stream" channelId="2488", SENAL COLOMBIA SD
 http://181.78.21.46:8000/play/a023
-#EXTINF:-1 type="stream" tvg logo="",CANAL SONY HD
+#EXTINF:0 type="stream" channelId="530", CANAL SONY HD
 http://181.78.21.46:8000/play/a033
-#EXTINF:-1 type="stream" tvg logo="",SONY MOVIES HD
+#EXTINF:0 type="stream" channelId="1214", SONY MOVIES HD
 http://181.78.21.46:8000/play/a034
-#EXTINF:-1 type="stream" tvg logo="",SPACE SD
+#EXTINF:0 type="stream" channelId="383", SPACE SD
 http://181.78.21.46:8000/play/a024
-#EXTINF:-1 type="stream" tvg logo="",CANAL ESTRELLA HD
+#EXTINF:0 type="stream" channelId="177", Star Channel HD
 http://181.78.21.46:8000/play/a025
-#EXTINF:-1 type="stream" tvg logo="",TCM SD
+#EXTINF:0 type="stream" channelId="895", TCM SD
 http://181.78.21.46:8000/play/a027
-#EXTINF:-1 type="stream" tvg logo="",TELEAMIGA SD
+#EXTINF:0 type="stream" channelId="4783", TELEAMIGA SD
 http://181.78.21.46:8000/play/a028
-#EXTINF:-1 type="stream" tvg logo="",TELEANTIOQUIA HD
+#EXTINF:0 type="stream" channelId="4745", TELEANTIOQUIA HD
 http://181.78.21.46:8000/play/a029
-#EXTINF:-1 type="stream" tvg logo="",TELECAFE SD
+#EXTINF:0 type="stream" channelId="4784", TELECAFE SD
 http://181.78.21.46:8000/play/a02b
-#EXTINF:-1 type="stream" tvg logo="",TELECARIBE HD
+#EXTINF:0 type="stream" channelId="4785", TELECARIBE HD
 http://181.78.21.46:8000/play/a02c
-#EXTINF:-1 type="stream" tvg logo="",TELECARIBE PLUS HD
+#EXTINF:0 type="stream" channelId="4785", TELECARIBE PLUS HD
 http://181.78.21.46:8000/play/a02x
-#EXTINF:-1 type="stream" tvg logo="",TELEHIT
+#EXTINF:0 type="stream" channelId="1966", TELEHIT
 http://181.78.21.46:8000/play/a02d
-#EXTINF:-1 type="stream" tvg logo="",TELEHIT MUSICA HD
+#EXTINF:0 type="stream" channelId="1964", TELEHIT MUSICA HD
 http://181.78.21.46:8000/play/a02e
-#EXTINF:-1 type="stream" tvg logo="",TELEISLAS HD
+#EXTINF:0 type="stream" channelId="4790", TELEISLAS HD
 http://181.78.21.46:8000/play/a02f
-#EXTINF:-1 type="stream" tvg logo="",TELEMEDELLIN HD
+#EXTINF:0 type="stream" channelId="2705", TELEMEDELLIN HD
 http://181.78.21.46:8000/play/a02g
-#EXTINF:-1 type="stream" tvg logo="",TELEMEDELLIN HD
+#EXTINF:0 type="stream" channelId="2705", TELEMEDELLIN HD
 http://181.78.21.46:8000/play/a03b
-#EXTINF:-1 type="stream" tvg logo="",TELENOSTALGIA HD
+#EXTINF:0 type="stream" channelId="3792", TELENOSTALGIA HD
 http://181.78.21.46:8000/play/a02h
-#EXTINF:-1 type="stream" tvg logo="",TELEPACIFICO SD
+#EXTINF:0 type="stream" channelId="4786", TELEPACIFICO SD
 http://181.78.21.46:8000/play/a02i
-#EXTINF:-1 type="stream" tvg logo="",TELEVID SD
+#EXTINF:0 type="stream" channelId="2705", TELEVID SD
 http://181.78.21.46:8000/play/a02j
-#EXTINF:-1 type="stream" tvg logo="",TLC SD
+#EXTINF:0 type="stream" channelId="67", TLC SD
 http://181.78.21.46:8000/play/a02k
-#EXTINF:-1 type="stream" tvg logo="",TLNOVELAS HD
+#EXTINF:0 type="stream" channelId="2504", TLNOVELAS HD
 http://181.78.21.46:8000/play/a02l
-#EXTINF:-1 type="stream" tvg logo="",TNT NOVELAS SD
+#EXTINF:0 type="stream" channelId="2705", TNT NOVELAS SD
 http://181.78.21.46:8000/play/a026
-#EXTINF:-1 type="stream" tvg logo="",TNT SD
+#EXTINF:0 type="stream" channelId="1052", TNT SD
 http://181.78.21.46:8000/play/a02m
-#EXTINF:-1 type="stream" tvg logo="",TNT SERIES SD
+#EXTINF:0 type="stream" channelId="2686", TNT SERIES SD
 http://181.78.21.46:8000/play/a02n
-#EXTINF:-1 type="stream" tvg logo="",Tooncast
+#EXTINF:0 type="stream" channelId="2639", Tooncast
 http://181.78.21.46:8000/play/a03l
-#EXTINF:-1 type="stream" tvg logo="",TV AGRO HD
+#EXTINF:0 type="stream" channelId="3799", TV AGRO HD
 http://181.78.21.46:8000/play/a02o
-#EXTINF:-1 type="stream" tvg logo="",UNIVERSAL HD
+#EXTINF:0 type="stream" channelId="3317", UNIVERSAL HD
 http://181.78.21.46:8000/play/a031
-#EXTINF:-1 type="stream" tvg logo="",UNIVERSAL STUDIO HD
+#EXTINF:0 type="stream" channelId="2147", UNIVERSAL STUDIO HD
 http://181.78.21.46:8000/play/a032
-#EXTINF:-1 type="stream" tvg logo="",UNIVISION HD
+#EXTINF:0 type="stream" channelId="3209", UNIVISION HD
 http://181.78.21.46:8000/play/a03i
-#EXTINF:-1 type="stream" tvg logo="",VPLUS
+#EXTINF:0 type="stream" channelId="2705", VPLUS
 http://181.78.21.46:8000/play/a02r
-#EXTINF:-1 type="stream" tvg logo="",WINSPORTS HD
+#EXTINF:0 type="stream" channelId="4788", WINSPORTS HD
 http://181.78.21.46:8000/play/a02s
-#EXTINF:-1 type="stream" tvg logo="",ZOOM SD
+#EXTINF:0 type="stream" channelId="921", ZOOM SD
 http://181.78.21.46:8000/play/a02t
